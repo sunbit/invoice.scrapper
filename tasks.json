@@ -1,0 +1,48 @@
+{
+    "notification_mail": "",
+    "invoices_folder": "~/Dropbox/Invoices",
+    "delay_between_downloads": 1,
+    "recipients":
+        [
+            ""
+        ],
+    "tasks": [
+        {
+            "company": "endesa",
+            "options": {
+                "username": "",
+                "password": ""
+            }
+        },
+        {
+            "company": "sorea",
+            "options": {
+                "username": "",
+                "password": ""
+            }
+        },
+        {
+            "company": "gasnatural",
+            "options": {
+                "username": "",
+                "password": ""
+            }
+        },
+        {
+            "company": "simyo",
+            "options": {
+                "username": "",
+                "password": "",
+                "user": "User 1"
+            }
+        },
+        {
+            "company": "simyo",
+            "options": {
+                "username": "",
+                "password": "",
+                "user": "User 2"
+            }
+        }
+    ]
+}
